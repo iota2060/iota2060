@@ -15,7 +15,7 @@
 
 ## **☕ About me**
 <a href="https://github.com/iota2060"><img align="left" width="100" src="./images/mahiro_switch.png"></a>
-I'm a Hikikomori and NEET, and my hobbies include playing games, watching anime, reading manga, cosplaying, listening to music, and sometimes tinkering with random stuff like coding.
+I'm an iota_2060, and my hobbies include playing games, watching anime, reading manga, Watching movies, and sometimes tinkering with random stuff like coding.
 <br><br>
 
 ## **💻 Experience**
